@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed Rashad
-- 👀 I’m interested in full-stack development
+- 👀 I’m interested in Software development
 - 🌱 I’m currently self-learning 
 - 📫 Reach me @ ahm20rashad24@gmail.com
 
